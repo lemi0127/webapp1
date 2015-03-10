@@ -1,13 +1,6 @@
 cordova.define('cordova/plugin_list', function(require, exports, module) {
 module.exports = [
     {
-        "file": "plugins/org.apache.cordova.battery-status/www/battery.js",
-        "id": "org.apache.cordova.battery-status.battery",
-        "clobbers": [
-            "navigator.battery"
-        ]
-    },
-    {
         "file": "plugins/org.apache.cordova.contacts/www/contacts.js",
         "id": "org.apache.cordova.contacts.contacts",
         "clobbers": [
@@ -74,8 +67,8 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "org.apache.cordova.battery-status": "0.2.12",
-    "org.apache.cordova.contacts": "0.2.15"
+    "org.apache.cordova.contacts": "0.2.16",
+    "org.apache.cordova.geolocation": "0.3.12"
 }
 // BOTTOM OF METADATA
 });

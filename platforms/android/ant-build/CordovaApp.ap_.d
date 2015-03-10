@@ -44,12 +44,8 @@ C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\img\user.svg \
 C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\js\app.js \
 C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\js\contacts.js \
 C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\js\geolocation.js \
-C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\js\hammer.min.js \
 C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\js\index.js \
-C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\plugins\org.apache.cordova.battery-status \
 C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\plugins\org.apache.cordova.contacts \
-C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\plugins\org.apache.cordova.battery-status\www \
-C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\plugins\org.apache.cordova.battery-status\www\battery.js \
 C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www \
 C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\Contact.js \
 C:\wamp\www\mad9022\webapp1\platforms\android\assets\www\plugins\org.apache.cordova.contacts\www\ContactAddress.js \

@@ -6,8 +6,6 @@ C:\wamp\www\mad9022\webapp1\platforms\android\ant-build\classes\ca\edumedia\lemi
 C:\wamp\www\mad9022\webapp1\platforms\android\ant-build\classes\ca\edumedia\lemi0127\webapp1\R$string.class \
 C:\wamp\www\mad9022\webapp1\platforms\android\ant-build\classes\ca\edumedia\lemi0127\webapp1\R$xml.class \
 C:\wamp\www\mad9022\webapp1\platforms\android\ant-build\classes\ca\edumedia\lemi0127\webapp1\R.class \
-C:\wamp\www\mad9022\webapp1\platforms\android\ant-build\classes\org\apache\cordova\batterystatus\BatteryListener$1.class \
-C:\wamp\www\mad9022\webapp1\platforms\android\ant-build\classes\org\apache\cordova\batterystatus\BatteryListener.class \
 C:\wamp\www\mad9022\webapp1\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
 C:\wamp\www\mad9022\webapp1\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor.class \
 C:\wamp\www\mad9022\webapp1\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
