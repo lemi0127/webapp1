@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, target-densitydpi=device-dpi" />
+        <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700|Droid+Serif' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        
+        <title>Alice's App</title>
+    </head>
+    <body>
+        <nav>
+<ul class="tabs">
+    <li class="tab"><a href="#home" id="hometab" data-role="pagelink" class="activetab"></a></li>
+    <li class="tab"><a href="#map" id="maptab" data-role="pagelink" class=""></a></li>
+    <li class="tab"><a href="#contacts" id="contactstab" data-role="pagelink" class=""></a></li>
+</ul>
+</nav>
+
+<div data-role="page" id="home" class="">
+  <div data-role="content">
+    <h2>Wonderland</h2>
+    <div id="homecontent">
+    <p>Alice asked the Cheshire Cat, who was sitting in a tree, “What tab do I press?”</p>
+<p>The cat asked, “Where do you want to go?”</p>
+
+<p>“I don’t know,” Alice answered.</p>
+
+<p>“Then,” said the cat, “it really doesn’t matter, does it?”       
+    </p>
+    </div>
+  </div>
+</div>
+    
+<div data-role="page" id="map" class="hidden">
+  <div data-role="content">
+    <h2>Map</h2>
+      <div id="mapoutput"></div>
+  </div>
+</div>
+
+<div data-role="page" id="contacts" class="hidden">
+  <div data-role="content">
+    <h2>Contacts</h2>
+      <div id="contactsoutput"></div>
+  </div>
+</div>
+        
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/hammer.min.js"></script>
+        <script type="text/javascript" src="js/app.js"></script>
+        <script type="text/javascript" src="js/geolocation.js"></script>
+        <script type="text/javascript" src="js/contacts.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>
